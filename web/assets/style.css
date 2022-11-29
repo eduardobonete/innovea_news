@@ -1,0 +1,19 @@
+.logo {
+	height: 80px;
+}
+
+
+.card.card-overlay-bottom {
+    overflow: hidden;
+}
+.card-bg-scale {
+    z-index: 99;
+}
+.card-grid .card-grid-lg {
+    height: 560px !important;
+}
+
+.tst {
+    height: 560px !important;
+    background: #1a73e8;
+}
